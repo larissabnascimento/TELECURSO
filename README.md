@@ -1,5 +1,6 @@
 # TELECURSO
 projeto voip
+Projeto de Exemplo para estudar e desenvolver o nosso:https://www.youtube.com/watch?v=7c2QC-wdc9Y
 
 # LINGUAGEM
   Python
